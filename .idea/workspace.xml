@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58c745a7-2d79-4d4e-be33-9f4e384e086a" name="Default Changelist" comment="" />
+    <list default="true" id="58c745a7-2d79-4d4e-be33-9f4e384e086a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Arrayiii.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrayiv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-oop/Arrayii.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-oop/Arrayii.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +21,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1tZU6gx1T9ZGmvF4A8atMWEiTWC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -34,7 +44,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Arrayii">
+  <component name="RunManager" selected="Application.Arrayiv">
     <configuration name="Arrayi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrayi" />
       <module name="java-oop" />
@@ -49,8 +59,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Maths" />
+    <configuration name="Arrayiii" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrayiii" />
+      <module name="java-oop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Arrayiv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrayiv" />
       <module name="java-oop" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -63,20 +80,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Overr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Overr" />
-      <module name="java-oop" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Arrayiv" />
+        <item itemvalue="Application.Arrayiii" />
         <item itemvalue="Application.Arrayii" />
         <item itemvalue="Application.Arrayi" />
         <item itemvalue="Application.Overl" />
-        <item itemvalue="Application.Overr" />
-        <item itemvalue="Application.Maths" />
       </list>
     </recent_temporary>
   </component>
@@ -92,5 +102,18 @@
       <updated>1622975932057</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

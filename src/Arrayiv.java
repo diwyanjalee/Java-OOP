@@ -7,7 +7,8 @@ public class Arrayiv {
         int max = getMax(array);
         System.out.println("Maximum Value is: "+max);
 
-        //int min = getMin(array);
+        int min = mi.getMin(array);
+
         System.out.println("Minimum Value is: "+mi);
     }
     public static int getMax(int[] inputArray){
@@ -25,7 +26,7 @@ public class Arrayiv {
             if(inputArray[i] < minValue){
                 minValue = inputArray[i];
             }
-            
+
         }
         return minValue;
     }

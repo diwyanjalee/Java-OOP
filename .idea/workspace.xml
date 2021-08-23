@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58c745a7-2d79-4d4e-be33-9f4e384e086a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arraylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Triangular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TriangularNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-oop/Arrayiv.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-oop/Arrayiv.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-oop/Ifelse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-oop/Ifelse.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Arrayiv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrayiv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ifelse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ifelse.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,28 +46,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Arraylist">
-    <configuration name="Arrayi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrayi" />
-      <module name="java-oop" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Arrayii" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrayii" />
-      <module name="java-oop" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Arrayiii" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrayiii" />
-      <module name="java-oop" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TriangularNumber">
     <configuration name="Arrayiv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrayiv" />
       <module name="java-oop" />
@@ -80,13 +61,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ifelse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ifelse" />
+      <module name="java-oop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Triangular" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Triangular" />
+      <module name="java-oop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangularNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TriangularNumber" />
+      <module name="java-oop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Arraylist" />
+        <item itemvalue="Application.TriangularNumber" />
+        <item itemvalue="Application.Triangular" />
         <item itemvalue="Application.Arrayiv" />
-        <item itemvalue="Application.Arrayiii" />
-        <item itemvalue="Application.Arrayii" />
-        <item itemvalue="Application.Arrayi" />
+        <item itemvalue="Application.Ifelse" />
+        <item itemvalue="Application.Arraylist" />
       </list>
     </recent_temporary>
   </component>

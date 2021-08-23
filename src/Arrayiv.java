@@ -1,5 +1,5 @@
 public class Arrayiv {
-    public static void  main (String args[]){
+    public static void  main (String[] args){
         int array[] = new int[]{8, 20, 84, 12, 57, 90};
         Arrayiv mi = new Arrayiv();
         mi.getMin(array);
@@ -20,7 +20,7 @@ public class Arrayiv {
         }
         return maxValue;
     }
-    public  int getMin(int[] inputArray){
+    public int getMin(int[] inputArray){
         int minValue = inputArray[0];
         for(int i=1;i<inputArray.length;i++){
             if(inputArray[i] < minValue){

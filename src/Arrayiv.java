@@ -9,7 +9,7 @@ public class Arrayiv {
 
         int min = mi.getMin(array);
 
-        System.out.println("Minimum Value is: "+mi);
+        System.out.println("Minimum Value is: "+mi.getMin(array));
     }
     public static int getMax(int[] inputArray){
         int maxValue = inputArray[0];

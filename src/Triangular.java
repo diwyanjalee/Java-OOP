@@ -8,14 +8,14 @@ public class Triangular {
         Triangular num = new Triangular();
         num.getTnum(n);
         int value = num.getTnum(n);
-        System.out.println("triangular Value is: "+num);
+        System.out.println("triangular Value is: "+num.getTnum(n));
 
     }
-    public int getTnum(int n){
-        int triangularValue = n;
-        int triangular = 0;
-        for(int i = 1;i<=n;i++) {
-            triangular = triangular + i;
+    public int getTnum(int num){
+        //int triangularValue = num;
+        int triangularValue = 0;
+        for(int i = 1;i<=num;i++) {
+            triangularValue = triangularValue + i;
         }
         return triangularValue;
     }
